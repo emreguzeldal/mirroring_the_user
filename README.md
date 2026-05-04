@@ -96,4 +96,5 @@ If you use this code or find the analysis useful, please cite the paper (placeho
 ## Contact
 
 Emre Güzeldal — Koç University
-[your email]
+eguzeldal20@ku.edu.tr
+
